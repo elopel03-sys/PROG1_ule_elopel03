@@ -1,4 +1,3 @@
-cat > PROG1.txt << 'EOF'
 1. casa - https://dle.rae.es/casa
 2. perro - https://dle.rae.es/perro
 3. mesa - https://dle.rae.es/mesa
@@ -9,4 +8,3 @@ cat > PROG1.txt << 'EOF'
 8. coche - https://dle.rae.es/coche
 9. gato - https://dle.rae.es/gato
 10. reloj - https://dle.rae.es/reloj
-EOF
